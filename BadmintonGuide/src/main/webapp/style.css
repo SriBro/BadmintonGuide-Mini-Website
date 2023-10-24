@@ -1,0 +1,32 @@
+@charset "UTF-8";
+#btn11{
+    color:darkblue;
+    margin-right:2px;
+    }
+#btn12{
+	color:darkblue;
+    margin-right:2px;
+}
+#btn11:hover{
+	background-color:darkblue;
+        color:white;
+        border-color:white;
+        cursor:pointer;
+        border-radius:9px;
+        margin-right:2px;
+}
+    
+#btn12:hover{
+        background-color:darkblue;
+        color:white;
+        border-color:white;
+        cursor:pointer;
+        border-radius:9px;
+        margin-right:2px;
+    }
+#btn13{
+    
+}
+#btn13:hover{
+		
+}
